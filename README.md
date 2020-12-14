@@ -113,9 +113,9 @@ python src/s5_test.py \
 link:https://drive.google.com/drive/folders/1H_QRDvY6zxpMtQVsOSVuRtWILG_N2Wdd?usp=sharing
 
 
-# 6. How to run: Training
+# 6. Come eserguire il training
 
-* Infine, esegui i seguenti script uno per uno:
+* Esegui i seguenti script uno per uno:
     ``` bash
     python src/s1_get_skeletons_from_training_imgs.py
     python src/s2_put_skeleton_txts_to_a_single_txt.py 
