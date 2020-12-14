@@ -1,0 +1,357 @@
+jump_1
+1 491
+
+jump_2
+1 536
+
+jump_3
+24 55
+59 104
+105 210
+
+jump_4
+1 575
+
+jump_5
+1 412
+
+jump_6
+12 176
+
+jump_03-02-12-34-01-795
+52 59
+72 79
+114 121
+134 141
+161 169
+181 188
+236 245
+276 284
+313 321
+331 338
+349 356
+367 374
+385 392
+403 409
+424 428
+441 541
+
+jump_03-12-09-18-26-176
+58 680
+
+jump_03-13-11-27-50-720
+65 393
+
+jumpingjack_1
+1 114
+
+jumpingjack_2
+1 523
+
+jumpingjack_3
+1 642
+
+jumpingjack_4
+1 463
+
+jumpingjack_5
+28 240
+
+jumpingjack_6
+8 218
+
+jumpingjack_7
+6 242
+
+jumpingjack_8
+9 622
+
+jumpingjack_9
+1 919
+
+jumpingjack_10
+25 364
+
+jumpingjack_11
+1 305
+
+jumpingjack_12
+11 148
+
+jumpingjack_13
+16 973
+
+jumpingjack_14
+56 227
+
+jumpingjack_15
+15 136
+
+jumpingjack_16
+60 697
+
+lungesback_1
+1 192
+193 670
+
+lungesback_2
+38 80
+81 225
+226 499
+
+lungesback_3
+1 94
+95 1010
+
+lungesback_4
+1 52
+61 519
+
+lungesback_5
+77 325
+
+lungesback_6
+66 135
+232 679
+
+lungesback_7
+1 708
+
+lungesback_8
+144 769
+
+lungesback_9
+1 192
+
+lungesback_10
+1 427
+
+lungesback_11
+16 148
+
+lungesfront_1
+55 135
+136 235
+
+lungesfront_2
+21 106
+107 295
+
+lungesfront_3
+1 101
+102 351
+
+lungesfront_4
+89 240
+241 646
+
+lungesfront_5
+41 106
+107 163
+
+lungesfront_6
+1 62
+63 221
+
+lungesfront_7
+56 130
+107 510
+
+lungesfront_8
+1 383
+
+lungesfront_9
+26 302
+
+lungesfront_10
+1 802
+
+lungesfront_11
+70 425
+
+lungesfront_12
+1 728
+
+plank_1
+1 298
+
+plank_2
+28 498
+
+plank_3
+1 289
+
+plank_4
+37 775
+
+plank_5
+34 475
+476 725
+
+plank_6
+99 222
+
+plank_7
+121 249
+
+plank_8
+104 490
+
+plank_9
+183 456
+
+plank_10
+5 719
+
+plank_11
+1 489
+
+plank_12
+1 379
+
+plank_13
+1 337
+
+plank_14
+115 580
+
+plank_15
+1 267
+
+plank_16
+1 403
+
+plank_17
+120 372
+
+plank_18
+121 600
+
+plank_19
+99 634
+
+plank_11-22-18-15-43-079
+41 122
+123 192
+267 333
+408 441
+
+plank_11-22-18-16-34-354
+57 132
+178 226
+307 357
+422 455
+
+plank_11-22-18-26-40-666
+66 208
+273 340
+
+run_03-02-12-31-47-095
+62 403
+
+run_03-12-09-15-25-375
+70 760
+
+run_1
+1 136
+137 335
+336 1014
+
+run_2
+1 225
+
+run_3
+1 242
+
+run_4
+1 165
+
+run_5
+1 405
+
+run_6
+1 355
+
+squat_03-08-20-26-57-195
+75 785
+
+squat_03-13-13-21-48-761
+41 293
+
+squat_1
+1 138
+
+squat_2
+1 308
+
+squat_3
+16 519
+
+squat_4
+1 628
+
+squat_5
+52 318
+
+squat_6
+1 680
+
+squat_7
+1 558
+
+squat_8
+40 269
+
+squat_9
+1 293
+
+squat_10
+1 468
+
+squat_11
+1 420
+
+squat_12
+1 418
+
+squat_13
+1 403
+
+squat_14
+1 373
+
+stand_03-08-20-24-55-587
+55 520
+
+stand_03-08-20-35-06-287
+60 500
+
+stand_03-12-09-17-05-376
+35 395
+
+stand_03-12-09-17-05-376
+481 619
+
+stand_03-13-13-22-37-869
+40 335
+
+stand_11-06-10-42-35-536
+51 320
+
+stand_1
+1 263
+
+stand_2
+1 258
+
+stand_3
+1 550
+
+stand_4
+1 137
+271 449
+
+stand_5
+1 249
+
+
