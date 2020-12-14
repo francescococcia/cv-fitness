@@ -115,7 +115,7 @@ link:https://drive.google.com/drive/folders/1H_QRDvY6zxpMtQVsOSVuRtWILG_N2Wdd?us
 
 # 6. How to run: Training
 
-Infine, esegui i seguenti script uno per uno
+* Infine, esegui i seguenti script uno per uno:
     ``` bash
     python src/s1_get_skeletons_from_training_imgs.py
     python src/s2_put_skeleton_txts_to_a_single_txt.py 
