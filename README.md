@@ -5,13 +5,13 @@
 # 1. Algoritmo
 
 
-Otto tipi di azioni: `['stand', 'jump', 'run', 'jumpingJack', 'lungesBack', 'lungesFront', 'squat', 'plank', 'wave']`. 
+Otto tipi di azioni: `['stand', 'jump', 'run', 'jumpingJack', 'lungesBack', 'lungesFront', 'squat', 'plank']`. 
 
 
 
 # 2. Installa Dipendenze (OpenPose)
 
-First, Python >= 3.6.
+Python >= 3.6.
 
 Ho usato OpenPose da qui: [tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation). Prima di scaricarlo:
 
