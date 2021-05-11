@@ -1,5 +1,5 @@
 # cv-fitness
-
+Testato su sistema linux, distro Ubuntu 20.04.2
 
 
 # 1. Algoritmo
@@ -11,17 +11,17 @@ Otto tipi di azioni: `['stand', 'jump', 'run', 'jumpingJack', 'lungesBack', 'lun
 
 # 2. Installa Dipendenze (OpenPose)
 
-Python >= 3.6.
+Python <= 3.6.
 
-Ho usato OpenPose da qui: [tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation). Prima di scaricarlo:
+Ho usato OpenPose da qui:https://github.com/ZheC/tf-pose-estimation. Prima di scaricarlo:
 
 ```
 export MyRoot=$PWD
 cd src/githubs  
-git clone https://github.com/ildoonet/tf-pose-estimation  
+git clone https://github.com/ZheC/tf-pose-estimation
 ```
 
-Segui il tutorial [here](https://github.com/ildoonet/tf-pose-estimation#install-1) per scaricare il modello cmu
+Segui il tutorial https://github.com/ZheC/tf-pose-estimation per scaricare il modello cmu
 ```
 $ cd tf-pose-estimation/models/graph/cmu  
 $ bash download.sh  
