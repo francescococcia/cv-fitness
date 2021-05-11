@@ -89,11 +89,10 @@ python src/s5_test.py \
 ```
 
 # 5. Dati di training
-
 link:https://drive.google.com/drive/folders/1H_QRDvY6zxpMtQVsOSVuRtWILG_N2Wdd?usp=sharing
-Decomprimere i dati e si vedrà la cartella: source_images3. Usalo per sostituire il file data/source_images3.
+Decomprimere il file e sostituire la cartella source_images3 estratta con quella presente in data/source_images3.
 
-All'interno della cartella il file valid_images.txt, descrive l'etichetta di ogni immagine che ho usato per l'allenamento. (puoi visualizzarlo su data / source_images3 / valid_images.txt .)
+All'interno della cartella si trova il file valid_images.txt, che descrive l'etichetta di ogni immagine che ho usato per l'allenamento. (puoi visualizzarlo su data / source_images3 / valid_images.txt .)
 
 # 6. Come eserguire il training
 
