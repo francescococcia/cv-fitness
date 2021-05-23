@@ -13,14 +13,14 @@ Otto tipi di azioni: `['stand', 'jump', 'run', 'jumpingJack', 'lungesBack', 'lun
 
 Python <= 3.6.
 
-Prima di scaricarlo:
+Scaricare la cartella tf-pose-estimation e copiarla in src/githubs, prima di scaricarlo:
 
 ```
 export MyRoot=$PWD
 cd src/githubs  
 
 ```
-Scaricare la cartella tf-pose-estimation e copiarla in src/githubs :
+Link:
 https://drive.google.com/file/d/1TRkQg1vWf_47MRtFH5BJdMgtkwauoHuN/view?usp=sharing.
 
 Versione aggiornata(non testata): https://github.com/ZheC/tf-pose-estimation.
