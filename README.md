@@ -13,14 +13,17 @@ Otto tipi di azioni: `['stand', 'jump', 'run', 'jumpingJack', 'lungesBack', 'lun
 
 Python <= 3.6.
 
-Ho usato OpenPose da qui:https://github.com/ildoonet/tf-pose-estimation
-Versione aggiornata(non testata) https://github.com/ZheC/tf-pose-estimation. Prima di scaricarlo:
+Prima di scaricarlo:
 
 ```
 export MyRoot=$PWD
 cd src/githubs  
-Scaricare la cartella tf-pose-estimation da questo link: https://drive.google.com/file/d/1TRkQg1vWf_47MRtFH5BJdMgtkwauoHuN/view?usp=sharing
+
 ```
+Scaricare la cartella tf-pose-estimation e copiarla in src/githubs :
+https://drive.google.com/file/d/1TRkQg1vWf_47MRtFH5BJdMgtkwauoHuN/view?usp=sharing.
+
+Versione aggiornata(non testata): https://github.com/ZheC/tf-pose-estimation.
 
 Installa le dipendenze
 ```
