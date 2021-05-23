@@ -13,18 +13,13 @@ Otto tipi di azioni: `['stand', 'jump', 'run', 'jumpingJack', 'lungesBack', 'lun
 
 Python <= 3.6.
 
-Ho usato OpenPose da qui:https://github.com/ZheC/tf-pose-estimation. Prima di scaricarlo:
+Ho usato OpenPose da qui:https://github.com/ildoonet/tf-pose-estimation
+Versione aggiornata(non testata) https://github.com/ZheC/tf-pose-estimation. Prima di scaricarlo:
 
 ```
 export MyRoot=$PWD
 cd src/githubs  
-git clone https://github.com/ZheC/tf-pose-estimation
-```
-
-Segui il tutorial https://github.com/ZheC/tf-pose-estimation per scaricare il modello cmu
-```
-$ cd tf-pose-estimation/models/graph/cmu  
-$ bash download.sh  
+Scaricare la cartella tf-pose-estimation da questo link: https://drive.google.com/file/d/1TRkQg1vWf_47MRtFH5BJdMgtkwauoHuN/view?usp=sharing
 ```
 
 Installa le dipendenze
@@ -40,7 +35,7 @@ sudo apt install swig
 pip install "git+https://github.com/philferriere/cocoapi.git#egg=pycocotools&subdirectory=PythonAPI"
 
 cd $MyRoot/src/githubs/tf-pose-estimation/tf_pose/pafprocess
-swig -python -c++ pafprocess.i && python3 setup.py build_ext --inplace
+swig -python -c++ pafprocess.i && python setup.py build_ext --inplace
 ```
 
 
